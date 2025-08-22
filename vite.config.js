@@ -1,6 +1,8 @@
 import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
 
 export default defineConfig({
-  base: '/deveyesmainsite.github.io/', //  GitHub
+  plugins: [react()],
+  base: '/deveyesmainsite.github.io/',
 })
-
