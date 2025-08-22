@@ -1,17 +1,26 @@
 {
-  "name": "deveyesmainsite",
+  "name": "deveyesmainsite.github.io",
   "version": "1.0.0",
+  "description": "DEV EYES Portfolio Site",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevEyssuka/deveyesmainsite.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://DevEyssuka.github.io/deveyesmainsite.github.io",
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^4.0.0"
+    "@vitejs/plugin-react": "^5.0.1"
   }
 }
