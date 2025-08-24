@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/deveyesmainsite.github.io/", // чтобы GitHub Pages видел правильно
+  base: "/deveyesmainsite.github.io/",
 })
