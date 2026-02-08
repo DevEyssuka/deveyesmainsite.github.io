@@ -1,2 +1,7 @@
 #site for my portfolio 
-## https://deveyssuka.github.io/deveyesmainsite.github.io/
+## 
+
+
+Now it's 
+
+https://deveyessec.github.io/deveyesmainsite.github.io/
