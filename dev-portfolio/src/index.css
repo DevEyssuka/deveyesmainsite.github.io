@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Inter:wght@300;400;600&display=swap');
 @import "tailwindcss";
 
-/* ----------- CUSTOM DEV EYES STYLES ----------- */
-
-/* Fonts */
-
 html, body {
   @apply bg-[#0b0b0b] text-cyan-300 antialiased;
   font-family: 'Inter', sans-serif;
@@ -15,7 +11,6 @@ h1, h2, h3, h4 {
   letter-spacing: 0.05em;
 }
 
-/* Scrollbar — стиль */
 ::-webkit-scrollbar {
   width: 10px;
   height: 8px;
@@ -31,12 +26,10 @@ h1, h2, h3, h4 {
   background: rgba(34, 211, 238, 0.6);
 }
 
-/* Links */
 a {
   @apply text-cyan-300 underline-offset-2 hover:text-cyan-200 transition;
 }
 
-/* Buttons glow fx */
 button {
   transition: all 0.2s ease;
 }
